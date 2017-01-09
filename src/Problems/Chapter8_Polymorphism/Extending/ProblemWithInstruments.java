@@ -1,8 +1,10 @@
-package Problems.Chapter8_Polymorphism.Instruments;
+package Problems.Chapter8_Polymorphism.Extending;
 
 /**
  * Created by SashaKhyzhun on 1/4/17.
  */
+
+// Расширяемая программа 
 
 class Instrument {
     void play(String note) { System.out.println("Instrument.play() " + note); }

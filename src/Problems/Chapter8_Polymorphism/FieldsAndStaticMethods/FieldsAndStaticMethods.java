@@ -25,8 +25,7 @@ class FieldsAndStaticMethods {
     public static void main(String[] args) {
 
         Super _super = new Sub(); // Upcast
-        System.out.println("sup.field = "      + _super.field
-                       + ", sup.getField() = " + _super.getField());
+        System.out.println("sup.field = " + _super.field  + ", sup.getField() = " + _super.getField());
 
         Sub subclass = new Sub();
         System.out.println("sub.field = "           + subclass.field
