@@ -7,3 +7,4 @@ package Problems.Chapter9_Interfaces.f_InterfacesAsAMeansOfAdaptation;
 
 public class RandomWords {
 }
+//фів
