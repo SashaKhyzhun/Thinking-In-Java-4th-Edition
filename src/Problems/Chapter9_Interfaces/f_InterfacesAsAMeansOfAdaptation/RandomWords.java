@@ -46,6 +46,4 @@ public class RandomWords implements Readable {
         }
     }
 
-    // TODO: 1/12/17 Глава 9, Интерфейсы как средство адаптации, страница 280...
-
 }

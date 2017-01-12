@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/AdapterRandomDoubles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomDoubles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/g_FieldsInInterfaces/Months.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/h_InitFieldsForInterface/RandVals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/i_NestedInterfaces/NestingInterfaces.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/Problems/Chapter9_Interfaces/readme" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/Problems/Chapter9_Interfaces/readme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomWords.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomWords.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/readme" afterPath="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/readme" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,14 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RandomWords.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomWords.java">
+      <file leaf-file-name="NestingInterfaces.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/i_NestedInterfaces/NestingInterfaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="48" column="80" lean-forward="true" selection-start-line="48" selection-start-column="80" selection-end-line="48" selection-end-column="80" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,12 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problems/Polymorphism/BehaviorOfMethodsInsideConstuctors/PolyConstructors.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Polymorphism/CovarianceReturnedTypes/CovariantReturn.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Polymorphism/InheritanceWhileDesigning/Transmogrify.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Polymorphism/RunTimeTypeIdentification/RunTimeTypeIdentification.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Polymorphism/RunTimeTypeIdentification/RTTI.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter8_Polymorphism/RunTimeTypeIdentification/RTTI.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter3_Operators/ShiftOperators/URShift.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter4_ControlDesigners/BreakAndContinue.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter5_InitialisationAndFinalize/TerminationCondition.java" />
@@ -102,11 +101,17 @@
         <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/SeparatingInterfaceFromRealisation/InterfaceProcessor/Apply.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/SeparatingInterfaceFromRealisation/InterfaceProcessor/StringProcessor.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/c_MultiExtending/Adventure.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/readme" />
         <option value="$PROJECT_DIR$/src/Problems/Main.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/e_NameConflictsWhenCombiningInterf/InterfaceCollision.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/d_ExtensionThroughInheritance/HorrorShow.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomWords.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/AdapterRandomDouble.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomDoubles.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/AdapterRandomDoubles.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/g_FieldsInInterfaces/Months.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/h_InitFieldsForInterface/RandVals.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/readme" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/i_NestedInterfaces/NestingInterfaces.java" />
       </list>
     </option>
   </component>
@@ -117,9 +122,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="713" />
+    <option name="x" value="341" />
     <option name="y" value="23" />
-    <option name="width" value="930" />
+    <option name="width" value="1100" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectView">
@@ -137,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -192,34 +196,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter9_Interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="f_InterfacesAsAMeansOfAdaptation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,67 +212,7 @@
       <recent name="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/ExampleInterfaceWithInstruments" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomWords">
-    <configuration default="false" name="Music5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter9_Interfaces.a_BeginExamples.ExampleInterfaceWithInstruments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.a_BeginExamples.ExampleInterfaceWithInstruments.Music5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Apply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter9_Interfaces.b_SeparatingInterfaceFromRealisation.ClassProcessor.PatternStrategy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.b_SeparatingInterfaceFromRealisation.ClassProcessor.PatternStrategy.Apply" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StringProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter9_Interfaces.b_SeparatingInterfaceFromRealisation.InterfaceProcessor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.b_SeparatingInterfaceFromRealisation.InterfaceProcessor.StringProcessor" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestRandVals">
     <configuration default="false" name="FilterProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -322,6 +241,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.f_InterfacesAsAMeansOfAdaptation.RandomWords" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RandomDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter9_Interfaces.f_InterfacesAsAMeansOfAdaptation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.f_InterfacesAsAMeansOfAdaptation.RandomDoubles" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdapterRandomDoubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter9_Interfaces.f_InterfacesAsAMeansOfAdaptation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.f_InterfacesAsAMeansOfAdaptation.AdapterRandomDoubles" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestRandVals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter9_Interfaces.h_InitFieldsForInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter9_Interfaces.h_InitFieldsForInterface.TestRandVals" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -715,19 +694,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Music5" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Apply" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StringProcessor" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FilterProcessor" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RandomWords" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FilterProcessor" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RandomWords" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RandomDoubles" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AdapterRandomDoubles" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestRandVals" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RandomWords" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FilterProcessor" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StringProcessor" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Apply" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Music5" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestRandVals" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AdapterRandomDoubles" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RandomDoubles" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RandomWords" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FilterProcessor" />
       </list>
     </recent_temporary>
   </component>
@@ -752,6 +731,7 @@
       <workItem from="1484084205574" duration="3340000" />
       <workItem from="1484091249139" duration="102000" />
       <workItem from="1484175521008" duration="771000" />
+      <workItem from="1484258380861" duration="4506000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1484091284926</created>
@@ -764,7 +744,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42656000" />
+    <option name="totallyTimeSpent" value="47162000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -776,7 +756,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="713" y="23" width="930" height="873" extended-state="0" />
+    <frame x="341" y="23" width="1100" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -794,7 +774,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25053763" sideWeight="0.4950249" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23363636" sideWeight="0.4950249" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -834,29 +814,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/a_BeginExamples/ExampleAbstractWithInstruments/Music4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter7_SyntaxOfInheritance/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter8_Polymorphism/RunTimeTypeIdentification/RTTI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/FieldsAndStaticMethods/Sub.java" />
-    <entry file="file://$PROJECT_DIR$/src/Problems/FieldsAndStaticMethods/Super.java" />
     <entry file="file://$PROJECT_DIR$/src/Monster.java" />
     <entry file="file://$PROJECT_DIR$/src/MonsterIterator.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
@@ -1133,13 +1090,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/e_NameConflictsWhenCombiningInterf/InterfaceCollision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1154,13 +1104,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomWords.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/AdapterRandomDoubles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="48" column="80" lean-forward="true" selection-start-line="48" selection-start-column="80" selection-end-line="48" selection-end-column="80" />
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomDoubles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/f_InterfacesAsAMeansOfAdaptation/RandomWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/g_FieldsInInterfaces/Months.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/h_InitFieldsForInterface/RandVals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="84" lean-forward="false" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/i_NestedInterfaces/NestingInterfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
