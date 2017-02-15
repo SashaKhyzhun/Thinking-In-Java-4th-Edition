@@ -13,34 +13,36 @@ import java.util.*;
 
 public class PrintingContainers {
     static Collection fill (Collection<String> collection) {
-        collection.add("1 крыса");
-        collection.add("2 кошка");
-        collection.add("3 собака");
-        collection.add("4 слон");
-        collection.add("5 волк");
+        collection.add("крыса");
+        collection.add("кошка");
+        collection.add("собака");
+        collection.add("кошка");
+        collection.add("слон");
         return collection;
     }
     static Map fill (Map<String, String> map) {
-        map.put("1 крыса",  "Анфиса");
-        map.put("2 кошта",  "Мурка");
-        map.put("3 собака", "Шарик");
-        map.put("4 слон",   "Пушок");
-        map.put("5 волк",   "Снежок");
+        map.put("крыса",  "Анфиса");
+        map.put("кошка",  "Мурка");
+        map.put("собака", "Шарик");
+        map.put("кошка",  "Рыжик");
+        map.put("слон",   "Пушок");
         return map;
     }
 
     public static void main(String[] args) {
-        System.out.println(fill(new ArrayList<String>()));
-
-        System.out.println(fill(new TreeSet<String>()));
-        System.out.println(fill(new LinkedList<String>()));
-        System.out.println(fill(new LinkedHashSet<String>()));
-        System.out.println(fill(new LinkedHashMap<String, String>()));
-        System.out.println(fill(new TreeMap<String, String>()));
+        System.out.println("ArrayList     : " + fill(new ArrayList<String>()));
+        System.out.println("LinkedList    : " + fill(new LinkedList<String>()));
 
         System.out.println(" ");
-        System.out.println(fill(new HashSet<String>()));
-        System.out.println(fill(new HashMap<String, String>()));
+        System.out.println("HashSet       : " + fill(new HashSet<String>()));
+        System.out.println("TreeSet       : " + fill(new TreeSet<String>()));
+        System.out.println("LinkedHashSet : " + fill(new LinkedHashSet<String>()));
+
+        System.out.println(" ");
+        System.out.println("HashMap       : " + fill(new HashMap<String, String>()));
+        System.out.println("TreeMap       : " + fill(new TreeMap<String, String>()));
+        System.out.println("LinkedHashMap : " + fill(new LinkedHashMap<String, String>()));
+
 
 
     }
