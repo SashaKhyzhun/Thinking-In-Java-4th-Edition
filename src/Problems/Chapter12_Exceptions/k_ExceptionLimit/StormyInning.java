@@ -28,7 +28,7 @@ class RainedOut extends StormException {}
 class PopFoul extends Foul {}
 
 interface Storm {
-    public void event() throws RainedOut;
+    public void event() throws RainedOut; // не способен изменить тип исключения для event() класса Inning.
     public void rainHard() throws RainedOut;
 }
 
