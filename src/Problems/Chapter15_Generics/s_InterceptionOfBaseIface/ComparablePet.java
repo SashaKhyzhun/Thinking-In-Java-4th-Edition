@@ -1,4 +1,4 @@
-package Problems.Chapter15_Generics.s_InterceptionOfTheBaseInterface;
+package Problems.Chapter15_Generics.s_InterceptionOfBaseIface;
 
 /**
  * @author SashaKhyzhun on 3/15/17. Page 566.

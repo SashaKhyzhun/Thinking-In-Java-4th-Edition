@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="Generics: Limits, Boundary Situations, Erasure, HardModels">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/n_Masks/CovariantArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/n_Masks/GenericsAndCovariance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/n_Masks/Holder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/GenericReading.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/GenericWriting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/SuperTypeWildcards.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/CaptureConversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/ByteSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/GenericCast.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/ListOfInt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/MultipleInterfaceVariants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/NeedCasting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/Overloading.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/PrimitiveGenericTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/ComparablePet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/HijackedInterfae.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/RestrictedComparablePets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/definition" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/patters" />
+    <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/BasicHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/CRGWithBasicHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/CuriouslyRecurringGeneric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/NotSelfBounded.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBounded.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBounding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBoundingMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/CovariantReturnTypes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/GenericsAndReturnTypes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/OrdinaryArguments.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/PlayinGenericInheritance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/SelfBoundingAndCovariantArguments.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/v_DynamicTypeSafety/CheckedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixins.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/PatternDecoration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/ThrowGenericException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/ComparablePet.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/ComparablePet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/HijackedInterfae.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/HijackedInterfae.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/RestrictedComparablePets.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/RestrictedComparablePets.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Problems/patters" afterPath="$PROJECT_DIR$/src/Problems/patters" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +50,7 @@
     <favorites_list name="ThinkingInJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,28 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/i_BuildAHardModels/TupleList.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/i_BuildAHardModels/Store.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/j_GenericErasure/ErasedTypeEquivalence.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/j_GenericErasure/LostInformation.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/j_GenericErasure/ReturnGenericType.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/j_GenericErasure/Manipulation.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/j_GenericErasure/HasF.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/readme" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/k_Erasure/ErasureAndInheritance.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ArrayMaker.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ListMaker.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/FilledListMaker.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/SimpleHolder.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericHolder.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/Erased.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ClassTypeCapture.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/InstantiateForTypes.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/InstantiateGenericType.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/FactoryConstraint.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/CreatorGeneric.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericArrays.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ListOfGenerics.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ArrayOfGenericReference.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ArrayOfGeneric.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericArray.java" />
@@ -120,7 +99,6 @@
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/GenericReading.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard1.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard2.java" />
-        <option value="$PROJECT_DIR$/src/Problems/definition" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/CaptureConversion.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/ListOfInt.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/r_Problems/ByteSet.java" />
@@ -132,6 +110,29 @@
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/ComparablePet.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/HijackedInterfae.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/RestrictedComparablePets.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBounded.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/CuriouslyRecurringGeneric.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/BasicHolder.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/CRGWithBasicHolder.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/Unconstrained.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBounding.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/NotSelfBounded.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBoundingMethods.java" />
+        <option value="$PROJECT_DIR$/src/Problems/definition" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/CovariantReturnTypes.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/GenericsAndReturnTypes.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/OrdinaryArguments.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/SelfBoundingAndCovariantArguments.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/PlayinGenericInheritance.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/v_DynamicTypeSafety/CheckedList.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/ThrowGenericException.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixin.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixinы.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/СУКА.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixins" />
+        <option value="$PROJECT_DIR$/src/Problems/patters" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixins.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/PatternDecoration.java" />
       </list>
     </option>
   </component>
@@ -145,10 +146,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="736" />
-    <option name="y" value="23" />
-    <option name="width" value="704" />
-    <option name="height" value="873" />
+    <option name="x" value="180" />
+    <option name="y" value="132" />
+    <option name="width" value="1080" />
+    <option name="height" value="655" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -165,10 +166,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ThinkingInJava" />
@@ -219,103 +228,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter15_Generics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w_GenericExceptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="SearchEverywhereHistoryKey" value="animal&#9;PSI&#9;JAVA://Problems.Chapter8_Polymorphism.ExtendingAndFinilizeActions.Animal&#10;зуеы&#9;FILE&#9;file:///Users/SashaKhyzhun/Work/IdeaProjects/ThinkingInJava/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/RestrictedComparablePets.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Problems/Chapter9_Interfaces/ExampleInterfaceWithInstruments" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericCast">
-    <configuration default="false" name="GenericWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter15_Generics.o_Contravariance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.o_Contravariance.GenericWriting" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GenericReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter15_Generics.o_Contravariance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.o_Contravariance.GenericReading" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="CaptureConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter15_Generics.p_UnlimitedMasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.p_UnlimitedMasks.CaptureConversion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PrimitiveGenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Problems.Chapter15_Generics.r_Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.r_Problems.PrimitiveGenericTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Mixins">
     <configuration default="false" name="GenericCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -324,6 +282,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.r_Problems.GenericCast" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CRGWithBasicHolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter15_Generics.t_SelfBoundedTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.t_SelfBoundedTypes.CRGWithBasicHolder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="OrdinaryArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter15_Generics.u_CovarianceArgs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.u_CovarianceArgs.OrdinaryArguments" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CheckedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter15_Generics.v_DynamicTypeSafety.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.v_DynamicTypeSafety.CheckedList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Mixins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Problems.Chapter15_Generics.w_GenericExceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter15_Generics.w_GenericExceptions.Mixins" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -717,24 +755,27 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GenericWriting" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GenericReading" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CaptureConversion" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrimitiveGenericTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GenericCast" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GenericCast" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CRGWithBasicHolder" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OrdinaryArguments" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CheckedList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Mixins" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GenericCast" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrimitiveGenericTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CaptureConversion" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GenericReading" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GenericWriting" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Mixins" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CheckedList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OrdinaryArguments" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CRGWithBasicHolder" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GenericCast" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -805,7 +846,11 @@
       <workItem from="1489507971913" duration="6222000" />
       <workItem from="1489565047544" duration="251000" />
       <workItem from="1489565825234" duration="16067000" />
-      <workItem from="1489595292908" duration="2444000" />
+      <workItem from="1489595292908" duration="2502000" />
+      <workItem from="1489649330814" duration="16060000" />
+      <workItem from="1489680897562" duration="12000" />
+      <workItem from="1489692926296" duration="15000" />
+      <workItem from="1489692976158" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1484091284926</created>
@@ -926,11 +971,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489523064072</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Generics: Masks, UnlimitedMasks, Generic Problems, Interception of the base interface.">
+      <created>1489619301720</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1489619301720</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243635000" />
+    <option name="totallyTimeSpent" value="260119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -942,7 +994,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="736" y="23" width="704" height="873" extended-state="0" />
+    <frame x="180" y="132" width="1080" height="655" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -953,27 +1005,27 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991672" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30589432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30487806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36079547" sideWeight="0.48507464" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21018519" sideWeight="0.48507464" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991672" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24930362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24983984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4383358" sideWeight="0.51492536" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496799" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262195" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32591093" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1000,7 +1052,8 @@
     <MESSAGE value="finished chapter #14." />
     <MESSAGE value="Generics, Stacks, Tuple, Type &lt;T&gt; Containers, Anonymous inner classes." />
     <MESSAGE value="Generics: Limits, Boundary Situations, Erasure, HardModels" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics: Limits, Boundary Situations, Erasure, HardModels" />
+    <MESSAGE value="Generics: Masks, UnlimitedMasks, Generic Problems, Interception of the base interface." />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics: Masks, UnlimitedMasks, Generic Problems, Interception of the base interface." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1013,249 +1066,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/j_GenericErasure/HasF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ArrayMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/k_Erasure/ErasureAndInheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ListMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/SimpleHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/Erased.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/FactoryConstraint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" column="96" lean-forward="false" selection-start-line="45" selection-start-column="96" selection-end-line="45" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/InstantiateGenericType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="62" lean-forward="false" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ClassTypeCapture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" column="62" lean-forward="false" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/CreatorGeneric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ListOfGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ArrayOfGenericReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="71" lean-forward="false" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8922">
-          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/ArrayOfGeneric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericArraysWithTypeToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/c_StackOfTheClass/RandomList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/c_StackOfTheClass/LinkedStackTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/c_StackOfTheClass/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/FilledListMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/l_BoundarySituation/GenericArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/awt/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="1126" column="36" lean-forward="false" selection-start-line="1126" selection-start-column="36" selection-end-line="1126" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/m_Limitations/InheritBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/m_Limitations/BasicBounds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/m_Limitations/EpicBattle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/n_Masks/Apple.java" />
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/n_Masks/GenericsAndCovariance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/SuperTypeWildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/n_Masks/CovariantArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/GenericWriting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/o_Contravariance/GenericReading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/definition">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="94" lean-forward="false" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/patters">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1270,13 +1084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1334,34 +1141,288 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/RestrictedComparablePets.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/HijackedInterfae.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="360">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/ComparablePet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/p_UnlimitedMasks/UnboundedWildcard2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/CRGWithBasicHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="74" lean-forward="false" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/BasicHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/CuriouslyRecurringGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/NotSelfBounded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBounded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBounding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/t_SelfBoundedTypes/SelfBoundingMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="62" lean-forward="false" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/definition">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/GenericsAndReturnTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/OrdinaryArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/SelfBoundingAndCovariantArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/CovariantReturnTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/u_CovarianceArgs/PlayinGenericInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter14_InfoAboutTypes/a_RTTI/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter14_InfoAboutTypes/d_Pattern_Facade/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter14_InfoAboutTypes/e_RecursiveCounter/TypeCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter14_InfoAboutTypes/e_RecursiveCounter/PetCount4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter14_InfoAboutTypes/j_NullObjects/Null.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfBaseIface/RestrictedComparablePets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/k_Erasure/ErasureAndInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter8_Polymorphism/ExtendingAndFinilizeActions/Frog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Spliterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2803">
+          <caret line="431" column="8" lean-forward="false" selection-start-line="431" selection-start-column="8" selection-end-line="431" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="1020" column="25" lean-forward="true" selection-start-line="1020" selection-start-column="25" selection-end-line="1020" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixins">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter11_Collections/k_ForeachAndIterators/IterableClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6988">
+          <caret line="210" column="27" lean-forward="true" selection-start-line="210" selection-start-column="4" selection-end-line="210" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/ThrowGenericException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
           <folding>
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2140#2158#0" expanded="true" />
+            <element signature="e#2445#2464#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/HijackedInterfae.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/PatternDecoration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/s_InterceptionOfTheBaseInterface/ComparablePet.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/w_GenericExceptions/Mixins.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="59" column="45" lean-forward="false" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="docComment;class#TimeStamped#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter15_Generics/v_DynamicTypeSafety/CheckedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/patters">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="262" column="9" lean-forward="true" selection-start-line="262" selection-start-column="9" selection-end-line="262" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="141" column="3" lean-forward="true" selection-start-line="141" selection-start-column="3" selection-end-line="141" selection-end-column="3" />
         </state>
       </provider>
     </entry>
