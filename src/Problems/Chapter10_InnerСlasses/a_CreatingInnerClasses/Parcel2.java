@@ -5,6 +5,7 @@ package Problems.Chapter10_InnerСlasses.a_CreatingInnerClasses;
  * Возврат ссылки на внутренний класс.
  */
 public class Parcel2 {
+
     class Contents {
         private int i = 11;
         private int value() { return i; }

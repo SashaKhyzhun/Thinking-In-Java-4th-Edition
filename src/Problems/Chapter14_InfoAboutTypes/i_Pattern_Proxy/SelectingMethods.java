@@ -27,8 +27,8 @@ class MethodSelector implements InvocationHandler {
 interface SomeMethods {
     void boring1();
     void boring2();
-    void interesting(String arg);
     void boring3();
+    void interesting(String arg);
 }
 
 class Implementation implements SomeMethods {

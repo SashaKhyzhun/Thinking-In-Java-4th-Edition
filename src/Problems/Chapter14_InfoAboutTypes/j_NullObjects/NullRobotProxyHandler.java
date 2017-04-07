@@ -12,10 +12,10 @@ import java.util.List;
 public class NullRobotProxyHandler implements InvocationHandler {
     private String nullName;
     private Robot proxied = new NRobot();
-
     public NullRobotProxyHandler(Class<? extends Robot> type) {
         nullName = type.getSimpleName() + " NullRobot";
     }
+
     private class NRobot implements Null, Robot {
         @Override
         public String name() {

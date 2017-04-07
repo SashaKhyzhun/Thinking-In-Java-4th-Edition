@@ -5,10 +5,12 @@ package Problems.Chapter10_InnerСlasses.a_CreatingInnerClasses;
  * Создание внутрених классов.
  */
 public class Parcel1 {
+
     class Contents {
         private int i = 11;
         public int value() { return i; }
     }
+
     class Destination {
         private String label;
         Destination(String whereTo) {

@@ -1,7 +1,7 @@
 package Problems.Chapter15_Generics.d_GenericInteface;
 
 /**
- * @author SashaKhyzhun on 3/13/17. PAge 509
+ * @author SashaKhyzhun on 3/13/17. Page 509
  */
 public class Coffee {
 

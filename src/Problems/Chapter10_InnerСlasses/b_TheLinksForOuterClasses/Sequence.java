@@ -41,9 +41,12 @@ public class Sequence {
             if (i < items.length) i++;
         }
     }
+
     public Selector selector() {
         return new SequenceSelector();
     }
+
+
 
     public static void main(String[] args) {
         Sequence sequence = new Sequence(10);

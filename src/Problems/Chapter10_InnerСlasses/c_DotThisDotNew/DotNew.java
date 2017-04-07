@@ -6,6 +6,7 @@ package Problems.Chapter10_InnerСlasses.c_DotThisDotNew;
  */
 
 public class DotNew {
+
     public class Inner {}
 
     public static void main(String[] args) {
