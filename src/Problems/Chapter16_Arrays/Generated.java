@@ -1,10 +1,10 @@
-package Problems.Chapter16_Arrays.g_UsingGeneratorToCreateArrays;
+package Problems.Chapter16_Arrays;
 
 import Problems.Chapter15_Generics.d_GenericInteface.Generator;
 import Problems.Chapter17_DetailsAboutContainers.a_FillingArrays.CollectionData;
 
 /**
- * @author SashaKhyzhun on 4/21/17. Page 620.
+ * @author SashaKhyzhun on 4/24/17.
  */
 public class Generated {
 
@@ -15,10 +15,8 @@ public class Generated {
 
     // Create a new array:
     @SuppressWarnings("unchecked")
-    public static <T> T[] array(Class<T> type,
-                                Generator<T> gen, int size) {
-        T[] a =
-                (T[])java.lang.reflect.Array.newInstance(type, size);
+    public static <T> T[] array(Class<T> type, Generator<T> gen, int size) {
+        T[] a = (T[])java.lang.reflect.Array.newInstance(type, size);
         return new CollectionData<T>(gen, size).toArray(a);
     }
 

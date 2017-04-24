@@ -26,4 +26,5 @@ public class CollectionData<T> extends ArrayList<T> {
         return new CollectionData<T>(generator, quantity);
     }
 
+
 }

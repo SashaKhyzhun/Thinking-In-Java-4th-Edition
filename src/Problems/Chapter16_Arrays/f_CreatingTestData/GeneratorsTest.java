@@ -31,7 +31,7 @@ public class GeneratorsTest {
     public static void main(String[] args) {
         // метод test() создает экземпляр каждого из этих генераторов и
         // выводит результат, полученный при десятикратном вызове next();
-        test(CountingGenerator.class);
+        test(RandomGenerator.class);
     }
 
 }

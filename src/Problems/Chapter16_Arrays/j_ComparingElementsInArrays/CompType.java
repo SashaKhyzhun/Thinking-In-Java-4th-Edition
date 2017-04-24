@@ -47,15 +47,13 @@ public class CompType implements Comparable<CompType> {
     }
 
     public static void main(String[] args) {
-        // TODO: 4/24/17 Uncomment
+        CompType[] a = Generated.array(new CompType[12], generator());
+        System.out.println("before:");
+        System.out.println(Arrays.toString(a));
+        Arrays.sort(a);
 
-//        CompType[] a = Generated.arrays(new CompType[12], generator());
-//        System.out.println("before:");
-//        System.out.println(Arrays.toString(a));
-//        Arrays.sort(a);
-//
-//        System.out.println("After:");
-//        System.out.println(Arrays.toString(a));
+        System.out.println("After:");
+        System.out.println(Arrays.toString(a));
 
     }
 
