@@ -1,0 +1,18 @@
+##include <string>
+##include <ctime>
+##include <iostream>
+using namespace std;
+
+// Page 577
+
+template<class T> class TimeStamped : public T {
+
+    long timeStamp;
+
+    public:
+        TimeStamped() { timeStamp = time(0); }
+        long getStamp() { return timeStamp; }
+
+};
+
+
