@@ -1,4 +1,4 @@
-package Problems.Chapter17_DetailsAboutContainers.d_;
+package Problems;
 
 import java.util.*;
 
@@ -6,7 +6,8 @@ import java.util.*;
  * @author SashaKhyzhun on 5/1/17.
  */
 /* Basic integer array version */
-public class Labka5 {
+public class LexicographicalPermutation {
+
 
     /**
      * Computes the next lexicographical permutation of the specified array of integers in place,
