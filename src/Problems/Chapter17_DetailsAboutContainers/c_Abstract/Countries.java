@@ -106,11 +106,11 @@ public class Countries {
         };
     }
 
-    static Map<String, String> map = new FlyweightMap();
-    static Map<String, String> capitals() {
+    public static Map<String, String> map = new FlyweightMap();
+    public static Map<String, String> capitals() {
         return map; // Полная карта
     }
-    static Map<String, String> capitals(int size) {
+    public static Map<String, String> capitals(int size) {
         return select(size); // частичная карта
     }
     static List<String> names = new ArrayList<String>(map.keySet());

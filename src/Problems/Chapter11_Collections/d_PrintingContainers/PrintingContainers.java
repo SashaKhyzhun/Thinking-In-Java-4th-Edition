@@ -41,7 +41,7 @@ public class PrintingContainers {
         System.out.println(" ");
         System.out.println("HashMap       : " + fill(new HashMap<String, String>()));
         System.out.println("TreeMap       : " + fill(new TreeMap<String, String>()));
-        System.out.println("LinkedHashMap : " + fill(new LinkedHashMap<String, String>()));
+        System.out.println("LinkedHashMapDemo : " + fill(new LinkedHashMap<String, String>()));
 
 
 
