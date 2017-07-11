@@ -34,6 +34,8 @@ public class SpringDetector {
 
     public static void main(String[] args) throws Exception {
         detectSpring(Groundhog.class);
+
+        Constructor<Integer> a = int.class.getConstructor(int.class);
     }
 
 }
