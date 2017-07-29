@@ -1,7 +1,7 @@
 package Problems.Chapter17_DetailsAboutContainers.k_OverridingHashCode;
 
 /**
- * @author SashaKhyzhun on 7/12/17.
+ * @author SashaKhyzhun on 7/12/17. Page 685
  */
 public class StringHashCode {
 
