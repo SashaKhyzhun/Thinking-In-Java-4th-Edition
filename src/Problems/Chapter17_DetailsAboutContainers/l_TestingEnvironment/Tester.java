@@ -3,7 +3,7 @@ package Problems.Chapter17_DetailsAboutContainers.l_TestingEnvironment;
 import java.util.List;
 
 /**
- * @author SashaKhyzhun on 7/30/17.
+ * @author SashaKhyzhun on 7/30/17. Page 692.
  */
 public class Tester<C> {
 
