@@ -1,8 +1,6 @@
 package Problems.Chapter18_InputOutputSystem.e_BufferedReadingFromFile;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 
 /**
  * @author SashaKhyzhun on 8/21/17.
@@ -19,7 +17,7 @@ public class BufferedInputFile {
         String s;
         StringBuilder sb = new StringBuilder();
         while ((s = in.readLine()) != null)
-            sb.append(s).append("\n");
+            sb.append(s + "\n");
         in.close();
         return sb.toString();
     }
