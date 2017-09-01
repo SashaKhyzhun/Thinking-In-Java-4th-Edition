@@ -1,4 +1,4 @@
-package Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization;
+package Problems.Chapter19_Enumerations.g_IfacesForCodeOrganization;
 
 /**
  * @author SashaKhyzhun on 9/1/17.

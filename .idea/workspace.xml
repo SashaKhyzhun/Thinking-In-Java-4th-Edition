@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="enums, + switch, + constructors, + reflection">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Course.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Food.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/SecurityCategory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/TypeOfFood.java" />
+    <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/AlarmPoints.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/BigEnumSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/CarWash.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/ConstantSpecificMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/EnumMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/EnumSets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/NotClasses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/OverrideConstantSpecific.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/Enums.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_RandomChoice/Enums.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Course.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Course.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Food.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Food.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Meal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal2.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Meal2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/SecurityCategory.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/SecurityCategory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/TypeOfFood.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/TypeOfFood.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/RandomTest.java" afterPath="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/RandomTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +43,18 @@
     <favorites_list name="ThinkingInJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="OverrideConstantSpecific.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/OverrideConstantSpecific.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,17 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/f_TypicalUsing/FileOutputShortcut.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/e_BufferedReadingFromFile/BasicFileOutput.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/f_TypicalUsing/StoringAndRecoveringData.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/g_UtilsForReadAndWrite/UsingRandomAccessFile.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/f_TypicalUsing/BinaryFile.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/g_UtilsForReadAndWrite/TextFile.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/g_UtilsForReadAndWrite/BinaryFile.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/h_DefaultInputOutput/Echo.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/h_DefaultInputOutput/ChangeSystemOut.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/i_ProcessControl/Redirection.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/j_NewInputOutput/GetChannel.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/j_NewInputOutput/ChannelCopy.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/j_NewInputOutput/TransferTo.java" />
@@ -118,6 +128,17 @@
         <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/SecurityCategory.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal2.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_RandomChoice/Enums.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/AlarmPoints.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/EnumSets.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/BigEnumSEt.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/BigEnumSet.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/EnumMap.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/ConstantSpecificMethod.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/LikeClasses.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/NotClasses.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/CarWash.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/OverrideConstantSpecific.java" />
       </list>
     </option>
   </component>
@@ -131,9 +152,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="773" />
+    <option name="x" value="421" />
     <option name="y" value="23" />
-    <option name="width" value="667" />
+    <option name="width" value="1019" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectView">
@@ -184,7 +205,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Problems" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter19_Enumerations" type="462c0819:PsiDirectoryNode" />
-              <item name="f_UsingInterfacesForCodeOrganization" type="462c0819:PsiDirectoryNode" />
+              <item name="h_UsingEnumSet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,15 +247,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Meal2">
-    <configuration name="Meal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.OverrideConstantSpecific">
+    <configuration name="BigEnumSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization.*" />
+          <option name="PATTERN" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization.Meal" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.BigEnumSet" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -246,14 +267,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="Meal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CarWash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization.*" />
+          <option name="PATTERN" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization.Meal2" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.CarWash" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -265,14 +286,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="NonEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ConstantSpecificMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Problems.Chapter19_Enumerations.d_StrangenessesInValues.*" />
+          <option name="PATTERN" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.d_StrangenessesInValues.NonEnum" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.ConstantSpecificMethod" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -284,14 +305,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Problems.Chapter19_Enumerations.e_RealizationNotExtending.*" />
+          <option name="PATTERN" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.e_RealizationNotExtending.RandomTest" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.EnumSets" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -303,14 +324,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="SecurityCategory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OverrideConstantSpecific" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization.*" />
+          <option name="PATTERN" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization.SecurityCategory" />
+      <option name="MAIN_CLASS_NAME" value="Problems.Chapter19_Enumerations.h_UsingEnumSet.OverrideConstantSpecific" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -702,19 +723,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NonEnum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RandomTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Meal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SecurityCategory" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Meal2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EnumSets" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BigEnumSet" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConstantSpecificMethod" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CarWash" />
+      <item index="4" class="java.lang.String" itemvalue="Application.OverrideConstantSpecific" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Meal2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SecurityCategory" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Meal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RandomTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NonEnum" />
+        <item index="0" class="java.lang.String" itemvalue="Application.OverrideConstantSpecific" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CarWash" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ConstantSpecificMethod" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BigEnumSet" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EnumSets" />
       </list>
     </recent_temporary>
   </component>
@@ -854,7 +875,7 @@
       <workItem from="1503490941271" duration="7064000" />
       <workItem from="1503560737474" duration="10369000" />
       <workItem from="1503907955509" duration="5291000" />
-      <workItem from="1504165515832" duration="2624000" />
+      <workItem from="1504165515832" duration="7311000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1484091284926</created>
@@ -1129,11 +1150,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503929149477</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Using interfaces for code organization">
+      <created>1504264662901</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1504264662901</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440634000" />
+    <option name="totallyTimeSpent" value="445321000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1145,7 +1173,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="773" y="23" width="667" height="873" extended-state="0" />
+    <frame x="421" y="23" width="1019" height="873" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.4943182" order="6" side_tool="false" content_ui="tabs" />
@@ -1160,7 +1188,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45727137" sideWeight="0.48507464" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45632973" sideWeight="0.48507464" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991672" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24930362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24983984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1188,7 +1216,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finished chapter #14." />
     <MESSAGE value="Generics, Stacks, Tuple, Type &lt;T&gt; Containers, Anonymous inner classes." />
     <MESSAGE value="Generics: Limits, Boundary Situations, Erasure, HardModels" />
     <MESSAGE value="Generics: Masks, UnlimitedMasks, Generic Problems, Interception of the base interface." />
@@ -1213,7 +1240,8 @@
     <MESSAGE value="Transient! ZipCompress, GZIP compress." />
     <MESSAGE value="XML parsers; &#10;finished chapter #17" />
     <MESSAGE value="enums, + switch, + constructors, + reflection" />
-    <option name="LAST_COMMIT_MESSAGE" value="enums, + switch, + constructors, + reflection" />
+    <MESSAGE value="Using interfaces for code organization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using interfaces for code organization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1226,63 +1254,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rtest.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/g_UtilsForReadAndWrite/TextFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/io/FilterInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/g_UtilsForReadAndWrite/BinaryFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/h_DefaultInputOutput/ChangeSystemOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/h_DefaultInputOutput/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="625" column="7" lean-forward="true" selection-start-line="625" selection-start-column="7" selection-end-line="625" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/i_ProcessControl/Redirection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter18_InputOutputSystem/j_NewInputOutput/for_this_task_need_windows" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
@@ -1523,7 +1494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/TypeOfFood.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/TypeOfFood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -1531,36 +1502,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/Enums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Meal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
@@ -1568,29 +1510,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/SecurityCategory.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/SecurityCategory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
           <folding>
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal2.java">
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Meal2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#1033#1034#0" expanded="false" />
+            <element signature="e#1076#1077#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_RandomChoice/Enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#376#377#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/g_IfacesForCodeOrganization/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/AlarmPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/EnumSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="135" column="7" lean-forward="true" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/EnumSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/BigEnumSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/EnumMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/NotClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/CarWash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/ConstantSpecificMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/h_UsingEnumSet/OverrideConstantSpecific.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

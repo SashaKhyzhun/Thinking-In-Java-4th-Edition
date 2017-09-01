@@ -1,5 +1,7 @@
 package Problems.Chapter19_Enumerations.e_RealizationNotExtending;
 
+import Problems.Chapter19_Enumerations.f_RandomChoice.Enums;
+
 /**
  * @author SashaKhyzhun on 8/28/17.
  * Page 820.

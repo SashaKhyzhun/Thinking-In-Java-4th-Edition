@@ -1,4 +1,4 @@
-package Problems.Chapter19_Enumerations.e_RealizationNotExtending;
+package Problems.Chapter19_Enumerations.f_RandomChoice;
 
 import java.util.Random;
 

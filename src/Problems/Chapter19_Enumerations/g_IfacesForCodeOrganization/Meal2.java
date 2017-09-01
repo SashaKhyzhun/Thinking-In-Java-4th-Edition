@@ -1,6 +1,6 @@
-package Problems.Chapter19_Enumerations.f_UsingInterfacesForCodeOrganization;
+package Problems.Chapter19_Enumerations.g_IfacesForCodeOrganization;
 
-import Problems.Chapter19_Enumerations.e_RealizationNotExtending.Enums;
+import Problems.Chapter19_Enumerations.f_RandomChoice.Enums;
 
 /**
  * @author SashaKhyzhun on 9/1/17.
