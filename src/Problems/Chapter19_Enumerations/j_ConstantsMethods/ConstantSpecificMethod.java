@@ -1,6 +1,4 @@
-package Problems.Chapter19_Enumerations.h_UsingEnumSet;
-
-import Problems.Chapter16_Arrays.f_CreatingTestData.RandomGenerator;
+package Problems.Chapter19_Enumerations.j_ConstantsMethods;
 
 import java.text.DateFormat;
 import java.util.Date;

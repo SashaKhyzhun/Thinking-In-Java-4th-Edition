@@ -1,4 +1,4 @@
-package Problems.Chapter19_Enumerations.h_UsingEnumSet;
+package Problems.Chapter19_Enumerations.j_ConstantsMethods;
 
 import java.util.EnumSet;
 

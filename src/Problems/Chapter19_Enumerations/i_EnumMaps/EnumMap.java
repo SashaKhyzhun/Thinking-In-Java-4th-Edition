@@ -1,9 +1,4 @@
-package Problems.Chapter19_Enumerations.h_UsingEnumSet;
-
-import java.io.ObjectInputStream;
-import java.util.Map;
-
-import static Problems.Chapter19_Enumerations.h_UsingEnumSet.AlarmPoints.*;
+package Problems.Chapter19_Enumerations.i_EnumMaps;
 
 /**
  * @author SashaKhyzhun on 9/1/17.
