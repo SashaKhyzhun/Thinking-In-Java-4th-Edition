@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="Annotations,">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/a_BasicSyntax/InitAnotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/a_BasicSyntax/PasswordUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/a_BasicSyntax/Testable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/a_BasicSyntax/UseCase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/Constraints.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/DBTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/Member.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/SQLInteger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/SQLString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/SimulatingNull.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/Uniqueness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/b_CreatingAnnotationHandler/UseCaseTracker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/c_HandleRealization/TableCreator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/d_AnnotationProcessingTool/ExtractInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/d_AnnotationProcessingTool/InterfaceExtractorProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/d_AnnotationProcessingTool/Multiplier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/e_PatternVisitorWithAPT/TableCreationProcessorFactory.java" />
+    <list default="true" id="b1c832f3-add1-491d-b1c2-20d929015ac5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/f_AnnotationsForUnitTesting/AtUnitExample1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/AtUnit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/ClassNameFinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/TestObjectCleanup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/TestObjectCreate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/h_TestRemover/AtUnitRemover.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkingInJava.iml" afterPath="$PROJECT_DIR$/ThinkingInJava.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Problems/patterns design" afterPath="$PROJECT_DIR$/src/Problems/patterns design" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,12 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/d_StrangenessesInValues/Reflection.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/d_StrangenessesInValues/UpcastEnum.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/d_StrangenessesInValues/NonEnum.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/Enums.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/RandomTest.java" />
-        <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/TypeOfFood.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Food.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Course.java" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/f_UsingInterfacesForCodeOrganization/Meal.java" />
@@ -132,6 +113,12 @@
         <option value="$PROJECT_DIR$/src/Problems/Chapter20_Anotations/d_AnnotationProcessingTool/InterfaceExtractorProcessor.java" />
         <option value="$PROJECT_DIR$/src/Problems/patterns design" />
         <option value="$PROJECT_DIR$/src/Problems/Chapter20_Anotations/e_PatternVisitorWithAPT/TableCreationProcessorFactory.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/f_AnnotationsForUnitTesting/AtUnitExample1.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/AtUnit.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/ClassNameFinder.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/TestObjectCreate.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/TestObjectCleanup.java" />
+        <option value="$PROJECT_DIR$/src/Problems/Chapter20_Annotations/h_TestRemover/AtUnitRemover.java" />
       </list>
     </option>
   </component>
@@ -866,7 +853,7 @@
       <workItem from="1503490941271" duration="7064000" />
       <workItem from="1503560737474" duration="10369000" />
       <workItem from="1503907955509" duration="5291000" />
-      <workItem from="1504165515832" duration="22085000" />
+      <workItem from="1504165515832" duration="24798000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1484091284926</created>
@@ -1169,7 +1156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504365358518</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Annotations, &#10;Custom annotations, &#10;db annotations, &#10;@interface, &#10;Pattern Visitor.">
+      <created>1504455596433</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1504455596433</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1178,7 +1172,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="460095000" />
+    <option name="totallyTimeSpent" value="462808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1202,7 +1196,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991672" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38202247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47727272" sideWeight="0.48507464" order="0" side_tool="false" content_ui="combo" />
@@ -1233,8 +1227,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Generics: Interception Of Base Interface, SelfBounded Types, Covariance Types, Dynamic Type Safety, Generic Exceptions" />
-    <MESSAGE value="Generics: Dynamic Proxy Mixin, Pattern Decoration" />
     <MESSAGE value="finished chapter 15" />
     <MESSAGE value="chapter 16..." />
     <MESSAGE value="finished chapter 16. started chapter 17." />
@@ -1258,7 +1250,9 @@
     <MESSAGE value="Using EnumSet" />
     <MESSAGE value="Multiple Dispatching, Pattern 'Chain Of Responsibility', etc" />
     <MESSAGE value="finished Chapter #19" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Chapter #19" />
+    <MESSAGE value="Annotations, Custom annotations, db annotations, @interface, etc" />
+    <MESSAGE value="Annotations, &#10;Custom annotations, &#10;db annotations, &#10;@interface, &#10;Pattern Visitor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Annotations, &#10;Custom annotations, &#10;db annotations, &#10;@interface, &#10;Pattern Visitor." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1271,48 +1265,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/a_MainFunctionsOfEnum/EnumClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/b_AddingMethodsInEnum/OzWitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/b_AddingMethodsInEnum/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/d_StrangenessesInValues/Reflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/d_StrangenessesInValues/UpcastEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/d_StrangenessesInValues/NonEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problems/Chapter19_Enumerations/e_RealizationNotExtending/RandomTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1571,10 +1523,10 @@
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#306#307#0" expanded="false" />
+            <element signature="e#331#332#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1584,7 +1536,7 @@
         <state relative-caret-position="270">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1594,12 +1546,12 @@
         <state relative-caret-position="390">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#501#502#0" expanded="false" />
+            <element signature="e#668#669#0" expanded="false" />
+            <element signature="e#719#720#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1693,8 +1645,8 @@
         <state relative-caret-position="1177">
           <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1359#1367#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1359#1367#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1756,6 +1708,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter20_Annotations/f_AnnotationsForUnitTesting/AtUnitExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/ClassNameFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#529#546#0" expanded="true" />
+            <element signature="e#606#622#0" expanded="true" />
+            <element signature="e#3372#3373#0" expanded="true" />
+            <element signature="e#3420#3421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/TestObjectCleanup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/TestObjectCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter20_Annotations/g_UnitRealize/AtUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#634#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problems/Chapter20_Annotations/h_TestRemover/AtUnitRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding />
         </state>
       </provider>
