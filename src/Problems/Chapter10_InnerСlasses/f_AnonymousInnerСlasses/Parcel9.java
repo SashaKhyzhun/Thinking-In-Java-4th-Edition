@@ -11,7 +11,7 @@ import Problems.Chapter10_InnerСlasses.d_InnerClassesAndUpcast.Destination;
 public class Parcel9 {
     // Для использования в анонимном внутреннем классе
     // аргумент должен быть объявлен как final;
-    // TODO: 1/18/17 хер знает почему, но на 8 java это похер
+    // TO DO: 1/18/17 хер знает почему, но на 8 java это похер
     public Destination getDestination(String dest) {
         return new Destination() {
             private String label = dest;
