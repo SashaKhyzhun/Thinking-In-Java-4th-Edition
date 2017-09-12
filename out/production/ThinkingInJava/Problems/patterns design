@@ -92,6 +92,9 @@
                          здесь круто описано:
                                 https://refactoring.guru/ru/design-patterns/chain-of-responsibility/java/example
 
-
+Посетитель (англ. visitor) — поведенческий шаблон проектирования, описывающий операцию, которая выполняется над
+                         объектами других классов. При изменении visitor нет необходимости изменять обслуживаемые
+                         классы. здесь круто описано:
+                                https://refactoring.guru/ru/design-patterns/visitor/java/example
 
 
